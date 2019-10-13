@@ -141,7 +141,7 @@ input,select,textarea {
   
    .navigation .menu-list li a {
     color: #b1d4e0;
-    font-size: 1.65rem;
+    font-size: 1.25rem;
     letter-spacing: 2px;
     text-transform: uppercase;
     cursor: pointer;
@@ -189,6 +189,7 @@ input,select,textarea {
       display: block;
       padding: 20px;
       transition: color 1s ease, padding 1s ease, background-color 1s ease;
+      font-size: 1.65rem;
   
     }
   
