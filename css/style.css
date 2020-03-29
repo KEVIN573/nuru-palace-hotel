@@ -123,7 +123,7 @@ input,select,textarea {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 50%;
+    width: 40%;
     margin: auto 20px auto 0;
   }
   
@@ -3127,6 +3127,7 @@ a {
     font-size: 11px;
     color: #818a9c;
     text-align: center;
+    background-color: #24324a;
 }
 .site-footer .footer-bottom a {
     color: #818a9c;
